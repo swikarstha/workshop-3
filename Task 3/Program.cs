@@ -8,8 +8,7 @@ class Program
         if (age < 13)
         {
             Console.WriteLine("child");
-        }
-        else if (age >= 13 && age <= 19)
+        }else if (age >= 13 && age <= 19)
         {
             Console.WriteLine("teenager");
         }
@@ -18,4 +17,3 @@ class Program
             Console.WriteLine("Adult");
         }
     }
-}
