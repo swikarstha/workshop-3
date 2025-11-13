@@ -1,0 +1,15 @@
+/home/swikar/workshop 3/workshop 3/task 3/bin/Debug/net9.0/task 3
+/home/swikar/workshop 3/workshop 3/task 3/bin/Debug/net9.0/task 3.deps.json
+/home/swikar/workshop 3/workshop 3/task 3/bin/Debug/net9.0/task 3.runtimeconfig.json
+/home/swikar/workshop 3/workshop 3/task 3/bin/Debug/net9.0/task 3.dll
+/home/swikar/workshop 3/workshop 3/task 3/bin/Debug/net9.0/task 3.pdb
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/task 3.GeneratedMSBuildEditorConfig.editorconfig
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/task 3.AssemblyInfoInputs.cache
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/task 3.AssemblyInfo.cs
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/task 3.csproj.CoreCompileInputs.cache
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/task 3.sourcelink.json
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/task 3.dll
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/refint/task 3.dll
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/task 3.pdb
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/task 3.genruntimeconfig.cache
+/home/swikar/workshop 3/workshop 3/task 3/obj/Debug/net9.0/ref/task 3.dll
